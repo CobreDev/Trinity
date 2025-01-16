@@ -54,8 +54,7 @@ span.v-icon.notranslate.v-icon--left.theme--dark {
 .theme--dark.v-btn,
 .theme--dark.v-list-item:not(.v-list-item--active):not(.v-list-item--disabled),
 .theme--dark.v-icon {
-    /* color: #cfcdcd; */
-    color: orange;
+    color: #ff5500; /* nord */
 }
 .v-menu__content {
     border-radius: 10px;
