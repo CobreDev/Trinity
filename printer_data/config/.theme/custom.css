@@ -27,7 +27,7 @@ main#content {
 .theme--dark.v-data-table,
 .theme--dark.v-list,
 .theme--dark.v-tabs-items {
-    background-color: #3B4252;
+    background-color: #3B4252; /* nord */
 }
 .filesGcodeCard.v-card.v-card--flat.v-sheet.theme--dark {
     border: 0;
@@ -41,7 +41,7 @@ main#content {
 .theme--dark.v-card,
 .theme--dark.v-sheet,
 span.v-icon.notranslate.v-icon--left.theme--dark {
-    color: #cfcdcd !important;
+    color: #red !important;
 }
 .expanded header.v-toolbar {
     border-bottom-left-radius: inherit !important;
