@@ -42,7 +42,7 @@ main#content {
 .theme--dark.v-card,
 .theme--dark.v-sheet,
 span.v-icon.notranslate.v-icon--left.theme--dark {
-    color: pink !important;
+    color: cfcdcd !important;
 }
 .expanded header.v-toolbar {
     border-bottom-left-radius: inherit !important;
