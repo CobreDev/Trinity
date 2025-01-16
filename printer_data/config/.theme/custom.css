@@ -1,5 +1,6 @@
 button._btn-qs.flex-grow-1.px-0.v-btn.v-btn--disabled.v-btn--has-bg.theme--dark.v-size--default {
-    border-color: #5a5959;
+    /* border-color: #5a5959;*/
+    border-color: red;
 }
 .v-navigation-drawer__image {
     display: none;
@@ -20,7 +21,8 @@ main#content {
     box-shadow: 0 0px 15px -3px #262626d4;
     border: solid 1px;
     border-color: #2E3440;
-    background-color: rgb(34 34 34) !important;
+    /* background-color: rgb(34 34 34) !important; */
+    background-color: green;
     border-radius: 10px !important;
     /* background-image: radial-gradient(at 3% 24%, rgb(44 41 41) 0px, transparent 50%), radial-gradient(at 10% 12%, rgb(54 54 54 / 19%) 0px, transparent 50%), radial-gradient(at 12% 62%, rgb(42 39 39 / 75%) 0px, transparent 50%), radial-gradient(at 47% 60%, rgb(44 42 42) 0px, transparent 50%), radial-gradient(at 85% 2%, rgb(52 49 49 / 69%) 0px, transparent 50%), radial-gradient(at 89% 56%, rgb(48 42 42 / 71%) 0px, transparent 50%) !important; */
 }
@@ -41,7 +43,7 @@ main#content {
 .theme--dark.v-card,
 .theme--dark.v-sheet,
 span.v-icon.notranslate.v-icon--left.theme--dark {
-    color: #red !important;
+    color: pink !important;
 }
 .expanded header.v-toolbar {
     border-bottom-left-radius: inherit !important;
@@ -52,7 +54,8 @@ span.v-icon.notranslate.v-icon--left.theme--dark {
 .theme--dark.v-btn,
 .theme--dark.v-list-item:not(.v-list-item--active):not(.v-list-item--disabled),
 .theme--dark.v-icon {
-    color: #cfcdcd;
+    /* color: #cfcdcd; */
+    color: orange;
 }
 .v-menu__content {
     border-radius: 10px;
@@ -65,7 +68,8 @@ span.v-icon.notranslate.v-icon--left.theme--dark {
     max-width: 100%;
 }
 .theme--dark.v-toolbar.v-sheet {
-    background-color: #434C5E !important;
+    background-color: #blue !important;
+    /* background-color: #434C5E !important; */
     /* background-image: radial-gradient(at 3% 24%, hsl(0deg 2.16% 12.33%) 0px, transparent 50%), radial-gradient(at 10% 12%, hsl(0deg 0.45% 29% / 19%) 0px, transparent 50%), radial-gradient(at 12% 62%, hsl(0deg 5.41% 9.71% / 75%) 0px, transparent 50%), radial-gradient(at 47% 60%, hsl(0deg 2% 16.21%) 0px, transparent 50%), radial-gradient(at 85% 2%, hsl(0deg 2.16% 16.96% / 69%) 0px, transparent 50%), radial-gradient(at 89% 56%, hsl(0deg 3.99% 13.01% / 79%) 0px, transparent 50%) !important; */
     border-bottom: solid 1px;
     border-color: #424242;
