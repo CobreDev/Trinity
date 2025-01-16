@@ -1,6 +1,5 @@
 button._btn-qs.flex-grow-1.px-0.v-btn.v-btn--disabled.v-btn--has-bg.theme--dark.v-size--default {
-    /* border-color: #5a5959;*/
-    border-color: red;
+    border-color: #5a5959;
 }
 .v-navigation-drawer__image {
     display: none;
