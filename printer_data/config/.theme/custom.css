@@ -27,7 +27,7 @@ main#content {
 .theme--dark.v-data-table,
 .theme--dark.v-list,
 .theme--dark.v-tabs-items {
-    background-color: red;
+    background-color: #3B4252;
 }
 .filesGcodeCard.v-card.v-card--flat.v-sheet.theme--dark {
     border: 0;
