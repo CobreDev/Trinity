@@ -19,7 +19,7 @@ main#content {
 .v-sheet.v-card:not(.v-sheet--outlined), .v-menu__content {
     box-shadow: 0 0px 15px -3px #262626d4;
     border: solid 1px;
-    border-color: #ff00ff;
+    border-color: #2E3440;
     background-color: rgb(34 34 34) !important;
     border-radius: 10px !important;
     /* background-image: radial-gradient(at 3% 24%, rgb(44 41 41) 0px, transparent 50%), radial-gradient(at 10% 12%, rgb(54 54 54 / 19%) 0px, transparent 50%), radial-gradient(at 12% 62%, rgb(42 39 39 / 75%) 0px, transparent 50%), radial-gradient(at 47% 60%, rgb(44 42 42) 0px, transparent 50%), radial-gradient(at 85% 2%, rgb(52 49 49 / 69%) 0px, transparent 50%), radial-gradient(at 89% 56%, rgb(48 42 42 / 71%) 0px, transparent 50%) !important; */
@@ -75,8 +75,8 @@ span.v-icon.notranslate.v-icon--left.theme--dark {
 }
 nav.v-navigation-drawer.v-navigation-drawer--clipped.v-navigation-drawer--fixed.v-navigation-drawer--mini-variant.v-navigation-drawer--open.theme--dark  {
     box-shadow: 0 0px 15px -3px #262626d4;
-    background-color: hsl(0deg 2.03% 13.12%) !important;
-    background-image: radial-gradient(at 3% 24%, hsl(0deg 2.39% 20.76% / 50%) 0px, transparent 50%), radial-gradient(at 10% 12%, hsla(0, 0%, 35%, 0.19) 0px, transparent 50%), radial-gradient(at 12% 62%, hsl(0deg 0% 14.96% / 60%) 0px, transparent 50%), radial-gradient(at 47% 60%, hsl(0deg 0.83% 19.52% / 75%) 0px, transparent 50%), radial-gradient(at 85% 2%, hsl(157.63deg 5.89% 24.68% / 69%) 0px, transparent 50%), radial-gradient(at 89% 56%, hsl(0deg 1.71% 14.08% / 79%) 0px, transparent 50%) !important;
+    background-color: #ff0000 !important;
+    /* background-image: radial-gradient(at 3% 24%, hsl(0deg 2.39% 20.76% / 50%) 0px, transparent 50%), radial-gradient(at 10% 12%, hsla(0, 0%, 35%, 0.19) 0px, transparent 50%), radial-gradient(at 12% 62%, hsl(0deg 0% 14.96% / 60%) 0px, transparent 50%), radial-gradient(at 47% 60%, hsl(0deg 0.83% 19.52% / 75%) 0px, transparent 50%), radial-gradient(at 85% 2%, hsl(157.63deg 5.89% 24.68% / 69%) 0px, transparent 50%), radial-gradient(at 89% 56%, hsl(0deg 1.71% 14.08% / 79%) 0px, transparent 50%) !important; */
 }
 .v-sheet.v-app-bar.v-toolbar:not(.v-sheet--outlined),
 .v-btn--is-elevated {
