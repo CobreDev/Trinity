@@ -1,4 +1,4 @@
-# Atlas - VS.912
+# VS.912 | Switchwire
 My Ender 3 to Switchwire conversion
 
 ## The Build
