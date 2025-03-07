@@ -25,5 +25,5 @@ I recently switched from the stock Voron Stealthburner/Clockwork 2 toolhead, to 
 - [FT EMS](https://www.printables.com/model/491106-ft-ems-swc-ender-3-v2pro-electronics-management-sy) with relevant [mounts](https://www.printables.com/model/558357-ft-ems-mounts-repository)
   - In the past I've used DIN rails which worked for the most part, but this gives me the most flexibility. I'm happy with it so far!
 - [Logitech C920 Camera Mount](https://www.printables.com/model/476253-c920-logitech-camera-mount-3d-printer-mount-can-be)
-  - I'm using a custom arm for this that extends it by double the length, I plan to post it on Printables whenever I get around to it
+  - I'm using a [longer spacer arm](https://www.printables.com/model/1220410-c92x-longer-spacer-arm) so that the camera is in the right location
 - [Bed Cable Strain Relief](https://www.printables.com/model/212186-ender-3-pro-90deg-heated-bed-cable-strain-relief)
