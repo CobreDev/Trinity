@@ -1,6 +1,8 @@
 # VS.912 | Switchwire
 My Ender 3 to Switchwire conversion
 
+![enderwire](./klipper-backup/images/enderwire.jpg)
+
 ## The Build
 This is almost completely based off of [EzrielDreamurr's Ender 3 Pro/V2 Switchwire conversion](https://github.com/EzrielDreamurr/Voron-Ender_3Pro_Switchwire) (V1). I'm using skirts from [DaRk_dOg's conversion](https://github.com/boubounokefalos/Ender_SW/), but mostly because I had them printed already and didn't need to reprint them.
 
