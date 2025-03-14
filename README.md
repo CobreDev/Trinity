@@ -12,9 +12,8 @@ Black: Sunlu ABS<br>
 (basically whatever was cheap on Amazon when I bought filament)
 
 ### Electronics:
-For the Klipper host, I'm using a BTT Pi v1.2. This is very handy because it can be powered directly off of 24v, unlike a regular Raspberry Pi which requires 5v.<br>
-My main MCU is a BTT SKR Mini E3V3. This board has a pretty small footprint, but still has a lot of i/o.<br>
-I'm also running an EBB36 CANbus board on my toolhead, connected to the BTT Pi through a BTT U2C.
+This printer is running a BTT Manta M5P with a BTT CB2 for the host. This is a great all-in-one solution with a pretty low footprint.
+I'm also running an EBB36 CANbus board on my toolhead, connected to the M5P directly.
 
 ### Toolhead:
 I recently switched from the stock Voron Stealthburner/Clockwork 2 toolhead, to  KevinAkaSam's [Papilio](https://kevinakasam.com/papilio/) belted extruder with an [A4T](https://github.com/Armchair-Heavy-Industries/A4T/) toolhead. For a hotend I'm using a TZ V6 2.0, which is a fantastic budget hotend that can use regular V6 nozzles.
